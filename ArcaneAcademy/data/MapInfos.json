@@ -1,8 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":521.4545454545455},
-{"id":2,"expanded":false,"name":"DORMITORY","order":3,"parentId":0,"scrollX":811,"scrollY":720},
-{"id":3,"expanded":true,"name":"HALL","order":2,"parentId":0,"scrollX":1216.5,"scrollY":723},
-{"id":4,"expanded":true,"name":"LIBRARY","order":4,"parentId":0,"scrollX":811,"scrollY":813},
-{"id":5,"expanded":false,"name":"LABORATORY","order":5,"parentId":0,"scrollX":819,"scrollY":478}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1092,"scrollY":637.3333333333334},
+{"id":2,"expanded":false,"name":"DORMITORY","order":3,"parentId":0,"scrollX":1216.5,"scrollY":720},
+{"id":3,"expanded":true,"name":"HALL","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":802.6666666666666},
+{"id":4,"expanded":true,"name":"LIBRARY","order":4,"parentId":0,"scrollX":1216.5,"scrollY":963},
+{"id":5,"expanded":true,"name":"LABORATORY","order":5,"parentId":0,"scrollX":982.8,"scrollY":573.6},
+{"id":6,"expanded":false,"name":"WITCH'S CHAMBER  ","order":6,"parentId":0,"scrollX":973.1999999999999,"scrollY":936}
 ]
